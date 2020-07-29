@@ -1,0 +1,42 @@
+D:\Waldek\Wyzsza Szkoła Informatyki i Zarzadzania\_Projekt\Programowanie\explorer.NET\explorer.NET\bin\Debug\explorer.NET.exe.config
+D:\Waldek\Wyzsza Szkoła Informatyki i Zarzadzania\_Projekt\Programowanie\explorer.NET\explorer.NET\bin\Debug\explorer.NET.exe
+D:\Waldek\Wyzsza Szkoła Informatyki i Zarzadzania\_Projekt\Programowanie\explorer.NET\explorer.NET\bin\Debug\explorer.NET.pdb
+D:\Waldek\Wyzsza Szkoła Informatyki i Zarzadzania\_Projekt\Programowanie\explorer.NET\explorer.NET\obj\Debug\explorer.NET.csprojAssemblyReference.cache
+D:\Waldek\Wyzsza Szkoła Informatyki i Zarzadzania\_Projekt\Programowanie\explorer.NET\explorer.NET\obj\Debug\explorer.NET.Form1.resources
+D:\Waldek\Wyzsza Szkoła Informatyki i Zarzadzania\_Projekt\Programowanie\explorer.NET\explorer.NET\obj\Debug\explorer.NET.Properties.Resources.resources
+D:\Waldek\Wyzsza Szkoła Informatyki i Zarzadzania\_Projekt\Programowanie\explorer.NET\explorer.NET\obj\Debug\explorer.NET.csproj.GenerateResource.cache
+D:\Waldek\Wyzsza Szkoła Informatyki i Zarzadzania\_Projekt\Programowanie\explorer.NET\explorer.NET\obj\Debug\explorer.NET.csproj.CoreCompileInputs.cache
+D:\Waldek\Wyzsza Szkoła Informatyki i Zarzadzania\_Projekt\Programowanie\explorer.NET\explorer.NET\obj\Debug\explorer.NET.exe
+D:\Waldek\Wyzsza Szkoła Informatyki i Zarzadzania\_Projekt\Programowanie\explorer.NET\explorer.NET\obj\Debug\explorer.NET.pdb
+D:\Waldek\Wyzsza Szkoła Informatyki i Zarzadzania\_Projekt\Programowanie\explorer.NET\explorer.NET\obj\Debug\explorer.NET.Form2.resources
+C:\Users\Rafciu\Desktop\jaszczur\projekt\explorer.NET\explorer.NET\bin\Debug\explorer.NET.exe.config
+C:\Users\Rafciu\Desktop\jaszczur\projekt\explorer.NET\explorer.NET\bin\Debug\explorer.NET.exe
+C:\Users\Rafciu\Desktop\jaszczur\projekt\explorer.NET\explorer.NET\obj\Debug\explorer.NET.csprojResolveAssemblyReference.cache
+C:\Users\Rafciu\Desktop\jaszczur\projekt\explorer.NET\explorer.NET\obj\Debug\explorer.NET.Form1.resources
+C:\Users\Rafciu\Desktop\jaszczur\projekt\explorer.NET\explorer.NET\obj\Debug\explorer.NET.Form2.resources
+C:\Users\Rafciu\Desktop\jaszczur\projekt\explorer.NET\explorer.NET\obj\Debug\explorer.NET.Properties.Resources.resources
+C:\Users\Rafciu\Desktop\jaszczur\projekt\explorer.NET\explorer.NET\obj\Debug\explorer.NET.csproj.GenerateResource.Cache
+C:\Users\Rafciu\Desktop\jaszczur\projekt\explorer.NET\explorer.NET\obj\Debug\explorer.NET.csproj.CoreCompileInputs.cache
+C:\Users\Rafciu\Desktop\jaszczur\projekt\explorer.NET\explorer.NET\obj\Debug\explorer.NET.exe
+C:\Users\Rafciu\Desktop\jaszczur\projekt\explorer.NET\explorer.NET\obj\Debug\explorer.NET.pdb
+G:\Projekt_programowanie\explorer.NET\explorer.NET\bin\Debug\explorer.NET.exe.config
+G:\Projekt_programowanie\explorer.NET\explorer.NET\bin\Debug\explorer.NET.exe
+G:\Projekt_programowanie\explorer.NET\explorer.NET\obj\Debug\explorer.NET.csprojResolveAssemblyReference.cache
+G:\Projekt_programowanie\explorer.NET\explorer.NET\obj\Debug\explorer.NET.Form1.resources
+G:\Projekt_programowanie\explorer.NET\explorer.NET\obj\Debug\explorer.NET.Form2.resources
+G:\Projekt_programowanie\explorer.NET\explorer.NET\obj\Debug\explorer.NET.Properties.Resources.resources
+G:\Projekt_programowanie\explorer.NET\explorer.NET\obj\Debug\explorer.NET.csproj.GenerateResource.Cache
+G:\Projekt_programowanie\explorer.NET\explorer.NET\obj\Debug\explorer.NET.csproj.CoreCompileInputs.cache
+G:\Projekt_programowanie\explorer.NET\explorer.NET\obj\Debug\explorer.NET.exe
+G:\Projekt_programowanie\explorer.NET\explorer.NET\obj\Debug\explorer.NET.pdb
+C:\Users\Win\Desktop\Projekt_programowanie\explorer.NET\explorer.NET\bin\Debug\explorer.NET.exe.config
+C:\Users\Win\Desktop\Projekt_programowanie\explorer.NET\explorer.NET\bin\Debug\explorer.NET.exe
+C:\Users\Win\Desktop\Projekt_programowanie\explorer.NET\explorer.NET\bin\Debug\explorer.NET.pdb
+C:\Users\Win\Desktop\Projekt_programowanie\explorer.NET\explorer.NET\obj\Debug\explorer.NET.csprojAssemblyReference.cache
+C:\Users\Win\Desktop\Projekt_programowanie\explorer.NET\explorer.NET\obj\Debug\explorer.NET.Properties.Resources.resources
+C:\Users\Win\Desktop\Projekt_programowanie\explorer.NET\explorer.NET\obj\Debug\explorer.NET.csproj.GenerateResource.cache
+C:\Users\Win\Desktop\Projekt_programowanie\explorer.NET\explorer.NET\obj\Debug\explorer.NET.csproj.CoreCompileInputs.cache
+C:\Users\Win\Desktop\Projekt_programowanie\explorer.NET\explorer.NET\obj\Debug\explorer.NET.exe
+C:\Users\Win\Desktop\Projekt_programowanie\explorer.NET\explorer.NET\obj\Debug\explorer.NET.pdb
+C:\Users\Win\Desktop\Projekt_programowanie\explorer.NET\explorer.NET\obj\Debug\explorerNET.Form2.resources
+C:\Users\Win\Desktop\Projekt_programowanie\explorer.NET\explorer.NET\obj\Debug\explorerNET.Form1.resources
